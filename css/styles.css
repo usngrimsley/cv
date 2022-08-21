@@ -1,0 +1,30 @@
+body {
+  background-color: #CEE5D0;
+}
+
+hr  {
+
+  border-color: grey;
+  border-width: 6px;
+  border-style: dotted none none;
+  width: 3%;
+
+}
+
+h1 {
+  color: #66BFBF;
+}
+
+h3 {
+  color: #66BFBF;
+}
+
+.circular {
+  border-radius: 100%
+}
+
+/****** Class Selectors ****/
+
+.star:hover {
+  font-size: 40px;
+}
